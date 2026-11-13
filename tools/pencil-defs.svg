@@ -1,0 +1,8 @@
+<defs>
+<filter id="rough" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.03" numOctaves="2" seed="3" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="6" xChannelSelector="R" yChannelSelector="G" result="d"/><feTurbulence type="fractalNoise" baseFrequency="1.1" numOctaves="1" seed="8" result="g"/><feColorMatrix in="g" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -0.9 1.15" result="ga"/><feComposite in="d" in2="ga" operator="in"/></filter>
+<filter id="rough2" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.045" numOctaves="2" seed="11" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="10" xChannelSelector="G" yChannelSelector="R"/></filter>
+<pattern id="hatch1" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(38)"><line x1="0" y1="0" x2="0" y2="12" stroke="#2c2722" stroke-width="3.6"/></pattern>
+<pattern id="hatch2" width="11" height="11" patternUnits="userSpaceOnUse" patternTransform="rotate(-48)"><line x1="0" y1="0" x2="0" y2="11" stroke="#2c2722" stroke-width="3"/></pattern>
+<linearGradient id="fadeg" x1="0" y1="0" x2="0.9" y2="1"><stop offset=".35" stop-color="#fff" stop-opacity="0"/><stop offset=".9" stop-color="#fff" stop-opacity="1"/></linearGradient>
+<mask id="lowerright" maskUnits="userSpaceOnUse" x="-40" y="-40" width="600" height="600"><rect x="-40" y="-40" width="600" height="600" fill="url(#fadeg)"/></mask>
+</defs>

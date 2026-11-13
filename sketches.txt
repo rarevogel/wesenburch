@@ -1,0 +1,91 @@
+# key        icon (game-icons.net, CC BY 3.0)     caption: what the sketch shows
+wolf         lorc/wolf-head                       a wolf
+coyote       lorc/wolf-howl                       a howling coyote
+hound        lorc/hound                           a hound
+hyena        caro-asercion/hyena-head             a jackal-like wild dog
+anubis       delapouite/anubis                    a jackal-headed figure from Egyptian art
+werewolf     lorc/werewolf                        the werewolf of old folklore
+husky        delapouite/sitting-dog               a sled dog
+fox          caro-asercion/fox                    a fox
+cat          lorc/cat                             a cat
+lion         lorc/lion                            a lion
+sabretooth   delapouite/saber-toothed-cat-head    a sabre-toothed cat
+jaguar       delapouite/feline                    a big cat
+lynx         delapouite/lynx-head                 a lynx
+bear         delapouite/bear-head                 a bear
+beaver       delapouite/beaver                    a beaver
+mouse        lorc/mouse                           a mouse
+rat          delapouite/rat                       a rat
+badger       caro-asercion/badger                 a badger
+porcupine    caro-asercion/porcupine              a porcupine
+rabbit       delapouite/rabbit                    a rabbit
+bat          delapouite/bat                       a bat
+pig          skoll/pig                            a pig
+goat         skoll/goat                           a goat
+sheep        delapouite/sheep                     a sheep
+minotaur     lorc/minotaur                        the minotaur of Greek myth
+bull         delapouite/bison                     wild cattle
+boar         caro-asercion/boar                   a wild boar
+cow          delapouite/cow                       a cow
+deer         caro-asercion/deer                   a deer
+rhino        delapouite/rhinoceros-horn           a rhinoceros
+ram          darkzaitzev/ram                      a horned ram
+centaur      delapouite/centaur                   a centaur of myth
+vulture      lorc/vulture                         a vulture
+eagle        delapouite/eagle-head                an eagle
+bird         delapouite/egyptian-bird             a bird of prey
+owl          lorc/owl                             an owl
+falcon       delapouite/falcon-moon               a falcon
+wyvern       lorc/wyvern                          a wyvern of legend
+snake        lorc/snake                           a snake
+gecko        lorc/gecko                           a lizard
+lizard       lorc/gecko                           a lizard
+croc         lorc/croc-jaws                       crocodile jaws
+cobra        delapouite/cobra                     a cobra
+dragon       delapouite/spiked-dragon-head        a dragon of legend
+tortoise     delapouite/tortoise                  a tortoise
+horned       delapouite/horned-reptile            a horned reptile
+plesiosaur   delapouite/plesiosaurus              a plesiosaur
+rattlesnake  delapouite/rattlesnake               a viper
+lamprey      lorc/lamprey-mouth                   a lamprey’s mouth
+puffer       delapouite/porcupinefish             a pufferfish
+mermaid      delapouite/mermaid                   a water nymph
+octopus      lorc/octopus                         an octopus
+eel          delapouite/eel                       an eel
+worm         lorc/leeching-worm                   a parasitic worm
+frog         lorc/frog                            a frog
+anglerfish   lorc/angler-fish                     a deep-sea fish
+bee          lorc/bee                             a bee
+spider       skoll/long-legged-spider             a spider
+fly          delapouite/fly                       a fly
+mantis       delapouite/praying-mantis            a praying mantis
+beetle       delapouite/flying-beetle             a beetle
+scarab       lorc/scarab-beetle                   a scarab beetle
+cicada       delapouite/cricket                   a singing insect
+bug          lorc/long-antennae-bug               a long-horned bug
+witch        cathelineau/witch-face               a witch of the old tales
+wizard       delapouite/wizard-face               a sorcerer
+ogre         delapouite/ogre                      an ogre of the old tales
+troll        skoll/troll                          a troll
+gorilla      delapouite/gorilla                   a great ape
+goblin       caro-asercion/goblin                 a goblin
+zombie       delapouite/shambling-zombie          a ghoulish wanderer
+reaper       lorc/grim-reaper                     a hooded figure
+skeleton     skoll/skeleton                       a skeleton
+harpy        lorc/harpy                           a harpy of myth
+mosquito     delapouite/amber-mosquito            a mosquito
+flame        carl-olsen/flame                     a flame
+lyre         lorc/lyre                            a lyre, symbol of the Muses
+alien        lorc/alien-stare                     a glowing visitor
+eye          lorc/beast-eye                       a staring eye
+cupid        lorc/cupidon-arrow                   Cupid’s arrow
+moon         delapouite/night-sleep               a sleeper’s moon
+devil        delapouite/devil-mask                a demon mask
+snowflake    lorc/snowflake-1                     a snowflake
+skull        lorc/broken-skull                    a skull
+volcano      lorc/volcano                         a volcano
+ghost        lorc/ghost                           a ghost
+golem        delapouite/golem-head                a golem
+cloak        lorc/cloak-dagger                    a cloak and dagger
+tree         lorc/oak                             an old tree
+hippo        own/hippo                            a hippopotamus
